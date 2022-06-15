@@ -1,0 +1,15 @@
+C:\Users\denis\source\repos\Volume\Volume\bin\Debug\net6.0\Volume.exe
+C:\Users\denis\source\repos\Volume\Volume\bin\Debug\net6.0\Volume.deps.json
+C:\Users\denis\source\repos\Volume\Volume\bin\Debug\net6.0\Volume.runtimeconfig.json
+C:\Users\denis\source\repos\Volume\Volume\bin\Debug\net6.0\Volume.dll
+C:\Users\denis\source\repos\Volume\Volume\bin\Debug\net6.0\Volume.pdb
+C:\Users\denis\source\repos\Volume\Volume\obj\Debug\net6.0\Volume.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\Volume\Volume\obj\Debug\net6.0\Volume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\Volume\Volume\obj\Debug\net6.0\Volume.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\Volume\Volume\obj\Debug\net6.0\Volume.AssemblyInfo.cs
+C:\Users\denis\source\repos\Volume\Volume\obj\Debug\net6.0\Volume.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Volume\Volume\obj\Debug\net6.0\Volume.dll
+C:\Users\denis\source\repos\Volume\Volume\obj\Debug\net6.0\refint\Volume.dll
+C:\Users\denis\source\repos\Volume\Volume\obj\Debug\net6.0\Volume.pdb
+C:\Users\denis\source\repos\Volume\Volume\obj\Debug\net6.0\Volume.genruntimeconfig.cache
+C:\Users\denis\source\repos\Volume\Volume\obj\Debug\net6.0\ref\Volume.dll
